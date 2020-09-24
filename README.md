@@ -8,7 +8,6 @@ Dragon Ball.
 - [Project](#project)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Other info](#other-info)
 - [Author](#author)
 
 ## Project
@@ -32,8 +31,6 @@ To run this project go to the folder projectggj:
 $ npm install
 $ npm start
 ```
-
-## Other info
 
 ## Authors
 
