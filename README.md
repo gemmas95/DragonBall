@@ -38,5 +38,7 @@ $ npm start
 ## Authors
 
 Jordi Muñoz Mallofré
+
 Gabriel Penalva Ibañez
+
 Gemma Sanz Rabadán
