@@ -11,6 +11,13 @@
 # production
 /build
 
+# firebase
+/.firebase
+/src/firebase/firebaseInit.js
+
+#sonarqube
+/.scannerwork
+
 # misc
 .DS_Store
 .env.local
