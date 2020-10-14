@@ -14,6 +14,8 @@ Dragon Ball.
 
 This is a frontend team project from Skylab Coders Academy course.
 
+There's able a live demo: https://dragon-ball-project-ggj.web.app/
+
 ## Technologies
 
 In front:
